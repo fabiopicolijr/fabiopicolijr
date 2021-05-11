@@ -3,4 +3,11 @@
  [![Stackoverflow Badge](http://img.shields.io/badge/-Stackoverflow-5c5c57?style=flat-square&logo=Stackoverflow&logoColor=black&link=https://stackoverflow.com/users/13911812/fabiopicolijr?tab=profile)](https://stackoverflow.com/users/13911812/fabiopicolijr?tab=profile)
 [![Gmail Badge](http://img.shields.io/badge/-fabiopicolijr@gmail.com-5c5c57?style=flat-square&logo=Gmail&logoColor=redlink=mailto:fabiopicolijr@gmail.com)](mailto:fabiopicolijr@gmail.com)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fabiopicolijr&show_icons=true&hide_border=true)
+✨  Seeking knowledge all the time
+My learning is based on creating projects and contributing to the open source community.
+
+💡  Driven by shipping products that help people
+My passion for programming is related to create incredible things and help people, doesn't matter the technology stack.
+
+☕️  Wanna chat?
+👉🏼  @ me on Twitter
