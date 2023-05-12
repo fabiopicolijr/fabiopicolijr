@@ -3,6 +3,8 @@
  [![Stackoverflow Badge](http://img.shields.io/badge/-Stackoverflow-5c5c57?style=flat-square&logo=Stackoverflow&logoColor=black&link=https://stackoverflow.com/users/13911812/fabiopicolijr?tab=profile)](https://stackoverflow.com/users/13911812/fabiopicolijr?tab=profile)
 [![Gmail Badge](http://img.shields.io/badge/-fabiopicolijr@gmail.com-5c5c57?style=flat-square&logo=Gmail&logoColor=redlink=mailto:fabiopicolijr@gmail.com)](mailto:fabiopicolijr@gmail.com)
 
+[![fabiopicolijr's GitHub | Stats](https://stats.quine.sh/fabiopicolijr/github?theme=dark)](https://quine.sh)
+
 💡  My passion is creating to help people.
 
 ☕️  Wanna chat? Find me on social media, I'm available.
